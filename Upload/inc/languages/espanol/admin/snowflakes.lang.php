@@ -18,7 +18,7 @@
 // snowflakes_plugin_info
 
 $l['snowflakes_Name'] = 'Snowflakes';
-$l['snowflakes_Desc'] = 'Shows beautiful snowflakes all over your board. Script by <a href="http://www.go4u.de" target="_blank">go4u.de</a>';
+$l['snowflakes_Desc'] = 'Muestra hermosos copos de nieve en todo tu tablero. Script por <a href="http://www.go4u.de" target="_blank">go4u.de</a>';
 $l['snowflakes_Web'] = 'http://community.mybb.com/user-6029.html';
 $l['snowflakes_Auth'] = 'Vintagedaddyo';
 $l['snowflakes_AuthSite'] = 'http://community.mybb.com/user-6029.html';

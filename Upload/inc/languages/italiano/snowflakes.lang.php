@@ -14,6 +14,6 @@
  *
  */
 
-$l['snowflakes_show_question'] = 'Should the snowflakes be displayed?';
+$l['snowflakes_show_question'] = 'Dovrebbero essere visualizzati i fiocchi di neve?';
 
 ?>
